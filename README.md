@@ -4,7 +4,7 @@ A note keeping website, clone of google keep.
 Helps user keep notes and infomation.
 
 
-##Instructions to install
+## Instructions to install
 
 ###### To install
 npm install
